@@ -119,7 +119,7 @@ function K_HUB()
 	OrionLib:Init()
 end
 
-if game.GameId == 12377995562 then
+if game.GameId == 4356309501 then
 	K_HUB()
 else
 	script:Destroy()
